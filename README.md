@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hardik Kapoor</h1>
 <h3 align="center">A Passionate Embedded Engineer</h3>
 
-- 🔭 I’m currently working on [AlertSystem_Project](https://github.com/Hardik-1974/AlertSystem_Project)
 - 👯 I’m looking to collaborate on Embedded Projects
 - 👨‍💻 All of my projects are available at [https://github.com/Hardik-1974](https://github.com/Hardik-1974)
 
